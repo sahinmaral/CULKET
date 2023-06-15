@@ -1,0 +1,7 @@
+{
+    "email":"culket_service@hotmail.com",
+    "password" : "culket123",
+    "port" : 587,
+    "isSSLEnabled":true,
+    "host":"smtp-mail.outlook.com"
+}

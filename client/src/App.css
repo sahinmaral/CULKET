@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .drawer{
+        @apply h-[calc(100vh-4rem)];
+    }
+}

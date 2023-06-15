@@ -7,7 +7,17 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
+    <PackageReference Include="Autofac" Version="7.0.1" />
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="6.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.0" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,6 +26,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\CULKET.Backend.BackgroundWorker\CULKET.Backend.BackgroundWorker.csproj" />
+    <ProjectReference Include="..\CULKET.Backend.Identity\CULKET.Backend.Identity.csproj" />
+    <ProjectReference Include="..\CULKET.Backend.Repository\CULKET.Backend.Repository.csproj" />
+    <ProjectReference Include="..\CULKET.Backend.Service\CULKET.Backend.Service.csproj" />
   </ItemGroup>
 
 </Project>

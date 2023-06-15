@@ -1,0 +1,17 @@
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.AssemblyInfo.cs
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Repository.deps.json
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Repository.runtimeconfig.json
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Repository.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Repository.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Core.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\bin\Debug\net6.0\CULKET.Backend.Core.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.csproj.CopyComplete
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\refint\CULKET.Backend.Repository.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\CULKET.Backend.Repository.genruntimeconfig.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Repository\obj\Debug\net6.0\ref\CULKET.Backend.Repository.dll

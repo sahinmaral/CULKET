@@ -1,0 +1,12 @@
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\bin\Debug\net6.0\CULKET.Backend.Caching.deps.json
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\bin\Debug\net6.0\CULKET.Backend.Caching.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\bin\Debug\net6.0\CULKET.Backend.Caching.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.AssemblyInfo.cs
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\refint\CULKET.Backend.Caching.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\CULKET.Backend.Caching.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Caching\obj\Debug\net6.0\ref\CULKET.Backend.Caching.dll

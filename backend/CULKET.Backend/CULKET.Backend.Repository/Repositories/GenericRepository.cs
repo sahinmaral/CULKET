@@ -1,8 +1,7 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using CULKET.Backend.Core.Models;
+using CULKET.Backend.Core.Repositories;
 
-using NLayer.Core.Models;
-using NLayer.Core.Repositories;
-using NLayer.Repository;
+using Microsoft.EntityFrameworkCore;
 
 using System;
 using System.Collections.Generic;

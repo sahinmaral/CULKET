@@ -1,0 +1,17 @@
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Identity.deps.json
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Identity.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Identity.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.csproj.AssemblyReference.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.AssemblyInfoInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.AssemblyInfo.cs
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.csproj.CoreCompileInputs.cache
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\refint\CULKET.Backend.Identity.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\ref\CULKET.Backend.Identity.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Core.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Core.pdb
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\obj\Debug\net6.0\CULKET.Backend.Identity.csproj.CopyComplete
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Repository.dll
+C:\Users\sahin\Desktop\CULKET\backend\CULKET.Backend\CULKET.Backend.Identity\bin\Debug\net6.0\CULKET.Backend.Repository.pdb

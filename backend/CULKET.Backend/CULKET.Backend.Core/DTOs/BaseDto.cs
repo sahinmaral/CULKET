@@ -8,7 +8,7 @@ namespace CULKET.Backend.Core.DTOs
 {
     public class BaseDto
     {
-        public int Id { get; set; }
+        public string Id { get; set; }
         public DateTime CreatedDate { get; set; }
     }
 }

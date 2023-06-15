@@ -1,5 +1,5 @@
-﻿using NLayer.Core.UnitOfWorks;
-using NLayer.Repository;
+﻿using CULKET.Backend.Core.UnitOfWorks;
+
 
 namespace CULKET.Backend.Repository.UnitOfWorks
 {

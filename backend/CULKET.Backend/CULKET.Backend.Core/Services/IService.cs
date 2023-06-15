@@ -1,18 +1,21 @@
-﻿using CULKET.Backend.Core.Models;
+﻿using CULKET.Backend.Core.DTOs;
+using CULKET.Backend.Core.Models;
 using System.Linq.Expressions;
 
 namespace CULKET.Backend.Core.Services
 {
-    public interface IService<T> where T : BaseEntity, new()
+    public interface IService<TEntity, TDto>
+        where TDto : BaseDto, new()
+        where TEntity : BaseEntity, new()
     {
-        Task<IEnumerable<T>> GetAllAsync();
-        Task<T> GetByIdAsync(int id);
-        IQueryable<T> Where(Expression<Func<T, bool>> expression);
-        Task<bool> AnyAsync(Expression<Func<T, bool>> expression);
-        Task<T> AddAsync(T entity);
-        Task<IEnumerable<T>> AddRangeAsync(IEnumerable<T> entities);
-        Task UpdateAsync(T entity);
-        Task DeleteAsync(T entity);
-        Task DeleteRangeAsync(IEnumerable<T> entities);
+        Task<CustomResponseDto<IEnumerable<TDto>>> GetAllAsync();
+        Task<CustomResponseDto<TDto>> GetByIdAsync(int id);
+        Task<CustomResponseDto<IEnumerable<TDto>>> Where(Expression<Func<TEntity, bool>> expression);
+        Task<CustomResponseDto<bool>> AnyAsync(Expression<Func<TEntity, bool>> expression);
+        Task<CustomResponseDto<TDto>> AddAsync(TDto dto);
+        Task<CustomResponseDto<IEnumerable<TDto>>> AddRangeAsync(IEnumerable<TDto> dtos);
+        Task<CustomResponseDto<NoContentDto>> UpdateAsync(TDto dto);
+        Task<CustomResponseDto<NoContentDto>> DeleteAsync(int id);
+        Task<CustomResponseDto<NoContentDto>> DeleteRangeAsync(IEnumerable<int> ids);
     }
 }
